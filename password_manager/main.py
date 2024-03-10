@@ -72,7 +72,7 @@ site_text.focus()
 site_text.grid(row=1, column=1, columnspan=2)
 
 user_text = Entry(width=35)
-user_text.insert(0, "kollarbr@gmail.com")
+user_text.insert(0, "test@email.com")
 user_text.grid(row=2, column=1, columnspan=2)
 
 password_text = Entry(width=21)
